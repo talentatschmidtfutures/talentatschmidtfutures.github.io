@@ -1,5 +1,5 @@
-##On The Importance of Accessibility 
-###What we are doing about it
+## On The Importance of Accessibility 
+### What we are doing about it
 
 Given the current state of the world, it is of the utmost importance that students are able to access the Rise application and subsequent components of the experience. We are seeing an exacerbation of socioeconomic divide both in the [U.S.](https://www.pewresearch.org/fact-tank/2020/03/16/as-schools-close-due-to-the-coronavirus-some-u-s-students-face-a-digital-homework-gap/) and [abroad](https://wkzo.com/news/articles/2020/jun/04/two-girls-lockdown-learning-underlines-south-africas-educational-divide/1025645/) - as wealthier students are able to complete their homework and access Zoom classes while those without a connection are often left without access to education. Given this context, we strive even more to make Rise accessible for all those who are experiencing this disruption. To address these access issues, we are taking a dual approach - through increasing access to the app and offering a paper application.
 
