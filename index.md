@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+##On The Importance of Accessibility 
+###What we are doing about it
 
-You can use the [editor on GitHub](https://github.com/talentatschmidtfutures/talentatschmidtfutures.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Given the current state of the world, it is of the utmost importance that students are able to access the Rise application and subsequent components of the experience. We are seeing an exacerbation of socioeconomic divide both in the [U.S.](https://www.pewresearch.org/fact-tank/2020/03/16/as-schools-close-due-to-the-coronavirus-some-u-s-students-face-a-digital-homework-gap/) and [abroad](https://wkzo.com/news/articles/2020/jun/04/two-girls-lockdown-learning-underlines-south-africas-educational-divide/1025645/) - as wealthier students are able to complete their homework and access Zoom classes while those without a connection are often left without access to education. Given this context, we strive even more to make Rise accessible for all those who are experiencing this disruption. To address these access issues, we are taking a dual approach - through increasing access to the app and offering a paper application.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The Twenty team is working to ensure that the Hello World App is available on many common device types around the world and requires low bandwidth. The Hello World app is available on all of the 5 top selling brands (Samsung, Itel, Tecno, Huawei, Infinix) in Africa for all of the most common devices except for a single model (It5613). In addition, a 90 second video is only 16.3MB, requiring 45 seconds to upload a video for an average lower-value connection. Through all of these efforts and future efforts, the Twenty team is committed to making the Hello World app accessible to all young people globally.
 
-### Markdown
+For those who do not have access to a smartphone, we are providing an alternative application that can be conducted on paper. In the paper application, we aim to make it signal-producing, reflective, fun, and an opportunity for applicants to learn. To do this, we plan to include questions on some common, but more advanced principles (game theory, stoichiometry, logic), where a brief description of the topics will be provided and students will be able to learn and challenge themselves. In addition, we plan to make later features on the Hello World application (including guided projects) available through paper journaling, so participants will be able to stay engaged and further level up.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+We are committed to providing the Rise application and opportunity to join a network of brilliant individuals to every young adult globally. We will continue to design our products and processes with this at the front of mind.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/talentatschmidtfutures/talentatschmidtfutures.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
